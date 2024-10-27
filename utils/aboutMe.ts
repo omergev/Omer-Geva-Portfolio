@@ -1,0 +1,3 @@
+export const aboutMe = {
+  description: `Hey! 👋 I'm Idan Arbiv, a Deep Learning Researcher and Software Engineer focused on Sequential and Representation Learning. Currently an M.Sc. candidate in Computer Science at Ben Gurion University, I have published research in ICML and NeurIPS. As an Algorithm Engineer at SONY Semiconductor, I design AI-driven applications and data tools, and I’m a Teaching Assistant in programming and distributed systems. Formerly, I served as a Communications Officer in the IDF, leading tech operations with a team of 40+. I'm passionate about advancing innovative solutions in AI and deep learning.`
+};
