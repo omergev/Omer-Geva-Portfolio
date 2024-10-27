@@ -1,6 +1,6 @@
 # Idan Arbiv's Portfolio
 
-![Portfolio Banner](app/banner.PNG)
+![Portfolio Banner](app/banner.png)
 
 ## Table of Contents
 
