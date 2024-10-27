@@ -43,7 +43,7 @@ export const projects = [
     tags: ["Computer Vision", "PyTorch", "Contrastive Learning", "Latent Representation"],
     githubUrl: "https://github.com/IdanArbiv/Open-Set-Recognition-With-Contrastive-Learning",
     url: "",
-    imageUrl: "/osr.PNG"
+    imageUrl: "/osr.png"
   },
   {
     id: 5,
@@ -53,7 +53,7 @@ export const projects = [
     tags: ["Hadoop", "AWS", "NLP", "WEKA"],
     githubUrl: "https://github.com/IdanArbiv/Hypernym-detection-with-Hadoop-and-OCR",
     url: "",
-    imageUrl: "/hadoop.PNG"
+    imageUrl: "/hadoop.png"
   },
   {
     id: 6,
@@ -63,6 +63,6 @@ export const projects = [
     tags: ["Evolutionary Algorithms", "EC-KITY", "Pandas"],
     githubUrl: "https://github.com/IdanArbiv/Partition-Problem-With-Evolutionary-Algorithms-",
     url: "",
-    imageUrl: "/partition.PNG"
+    imageUrl: "/partition.png"
   }
 ];
