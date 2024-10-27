@@ -10,24 +10,3 @@ export async function generateStaticParams() {
     id: project.id.toString(),
   }));
 }
-
-const ProjectPage = ({ params }: { params: any }) => {
-  const { id } = params;
-  const project = projects.find((proj) => proj.id.toString() === id);
-
-  if (!project) {
-    notFound();
-  }
-
-  if (!project.projectPage) {
-    return (
-      <div className="flex items-center justify-center">
-        Project page not found
-      </div>
-    );
-  }
-
-  return <ProjectTemplate project={project.projectPage} />;
-};
-
-export default ProjectPage;
