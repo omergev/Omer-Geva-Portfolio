@@ -21,7 +21,12 @@
         "name": "next"
       }
     ],
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "baseUrl": ".", // Added baseUrl
+    "paths": {
+      "@/app/*": ["./app/*"], // Added alias for app
+      "@/utils/*": ["./utils/*"] // Added alias for utils
+    }
   },
   "include": [
     "next-env.d.ts",
