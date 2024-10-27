@@ -1,6 +1,6 @@
 # Idan Arbiv's Portfolio
 
-![Portfolio Banner](app/banner.png)
+![Portfolio Banner](app/banner.PNG)
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Welcome to my portfolio! This website showcases my projects and skills as a soft
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
-git clone https://github.com/idoziv15/portfolio-website.git
+git clone https://github.com/IdanArbiv/portfolio-website
 npm install
 npm run dev
 
