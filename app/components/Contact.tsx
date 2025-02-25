@@ -10,7 +10,7 @@ const Contact = () => {
       id="contact">
       <h1
         className={`text-5xl md:text-6xl font-bold mb-4 ${playfair.className}`}>
-        Keep in touch.
+        Keep in touch
       </h1>
       <p className="text-lg md:text-xl font-light mb-8">
         If you have any questions or just want to say hi, feel free to reach out

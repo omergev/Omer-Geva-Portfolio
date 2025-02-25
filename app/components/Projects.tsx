@@ -22,7 +22,7 @@ const Projects = () => {
       id="projects">
       <h1
         className={`text-4xl md:text-6xl font-bold mb-6 ${playfair.className}`}>
-        Key Projects.
+        Key Projects
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {projects.map((project: Project) => (

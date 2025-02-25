@@ -11,7 +11,7 @@ const Experience = () => {
       id="experience">
       <h1
         className={`text-5xl md:text-6xl font-bold mb-8 md:mb-12 ${playfair.className}`}>
-        Experience.
+        Experience
       </h1>
       <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
         {experience.map((exp, index) => (

@@ -14,7 +14,7 @@ const AboutMe = () => {
       id="about"
     >
       <h1 className={`text-4xl md:text-6xl font-bold mb-2 ${playfair.className}`}>
-        About Me.
+        About Me
       </h1>
       <p className="text-lg md:text-xl font-light mb-4">
         {aboutMe.description.split("'").map((part, i, arr) => 
@@ -28,9 +28,9 @@ const AboutMe = () => {
       <Tabs categories={techStack} />
 
       <Link
-        href="/CV - Idan Arbiv 2024 .pdf"
+        href="/CV - Omer Geva 2025.pdf"
         target="_blank"
-        download="Idan Arbiv CV"
+        download="Omer Geva CV"
         className="btn md:btn-wide btn-primary text-primary-content font-normal mx-auto mt-8 md:mt-14"
       >
         Download CV

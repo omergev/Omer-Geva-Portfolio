@@ -28,7 +28,7 @@ const ContactForm = () => {
       });
 
       if (response.ok) {
-        toast.success('Your email was sent to Idan Arbiv', {
+        toast.success('Your email was sent to Omer Geva', {
           icon: '🖨️',
           style: {
             border: '1px solid #D0C1D6',

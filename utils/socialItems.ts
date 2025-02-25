@@ -1,7 +1,9 @@
 export const socialItems = [
   {
-    link: "https://www.linkedin.com/in/idan-arbiv/",
+    link: "https://www.linkedin.com/in/omer-geva/",
     icon: "linkedin-in",
   },
-  { link: "https://github.com/IdanArbiv", icon: "github" },
+  { link: "https://github.com/omergev",
+    icon: "github"
+  },
 ];

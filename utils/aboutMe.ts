@@ -1,3 +1,4 @@
 export const aboutMe = {
-  description: `Hey! 👋 I'm Idan Arbiv, a Deep Learning Researcher and Software Engineer focused on Sequential and Representation Learning. Currently an M.Sc. candidate in Computer Science at Ben Gurion University, I have published research in ICML and NeurIPS. As an Algorithm Engineer at SONY Semiconductor, I design AI-driven applications and data tools, and I’m a Teaching Assistant in programming and distributed systems. Formerly, I served as a Communications Officer in the IDF, leading tech operations with a team of 40+. I'm passionate about advancing innovative solutions in AI and deep learning.`
+  description: `Hey! 👋 I'm Omer Geva, I hold a Bachelor of Science in Computer Science with a specialization in Data Science from Ben-Gurion University. Currently, I am a Software Developer at PTC, where I have led critical end-to-end projects, demonstrating exceptional leadership and technical expertise.
+  I am passionate about developing innovative solutions and continuously enhancing my skills to drive impactful results.`
 };

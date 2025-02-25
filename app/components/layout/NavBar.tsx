@@ -12,7 +12,6 @@ const links = [
   { href: "about", label: "About" },
   { href: "experience", label: "Experience" },
   { href: "education", label: "Education" },
-  { href: "publications", label: "Publications" },
   { href: "projects", label: "Projects" },
   { href: "contact", label: "Contact" },
 ];

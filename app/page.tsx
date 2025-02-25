@@ -5,7 +5,6 @@ import Education from "./components/Education";
 import Footer from "./components/layout/Footer";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
-import Publications from "./components/Publications";
 
 export default function Home() {
   return (
@@ -14,7 +13,6 @@ export default function Home() {
       <AboutMe />
       <Experience />
       <Education />
-      <Publications />
       <Projects />
       <Contact />
       <Footer />
