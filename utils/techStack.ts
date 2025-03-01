@@ -31,8 +31,8 @@ export const techStack = {
     { iconName: "/icons/OOP.ico", name: "Object-Oriented Programming" },
     { iconName: "/icons/parallel-tasks.svg", name: "Parallel Programming" },
     // { iconName: "/icons/mvc.ico", name: "MVC" },
-    { iconName: "/icons/mvvm.ico", name: "MVVC" },
+    { iconName: "/icons/mvvm.ico", name: "MVVM" },
     // { iconName: "/icons/mern.svg", name: "MERN" },
-    { iconName: "/icons/api.svg", name: "RESTful APIs" },
+    // { iconName: "/icons/api.svg", name: "RESTful APIs" },
   ],
 };

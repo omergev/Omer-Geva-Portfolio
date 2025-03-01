@@ -18,12 +18,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Evolutionary Algorithms Partition Problem",
-    description:
-      'The .',
-    tags: ["React", "Type-Script", ""],
-    githubUrl: "",
-    url: "jhg",
-    imageUrl: ""
+    title: "Portfolio Website",
+    description: 'A personal portfolio website showcasing my projects, skills, and professional journey with a modern, responsive design built using React, Next.js, and TypeScript, along with JavaScript, HTML, and CSS.',
+    tags:  ["React", "TypeScript", "Next.js", "JavaScript", "HTML", "CSS"],
+    githubUrl: "https://github.com/omergev/Omer-Geva-Portfolio",
+    url: "",
+    imageUrl: "/banner.png"
   }
 ];
