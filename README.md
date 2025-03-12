@@ -62,8 +62,11 @@ To use the contact form (email feature), you need to configure environment varia
 Create a file named .env.local in the project root with the following content:
 
 EMAIL_USER=your_email@gmail.com
+
 EMAIL_PASS=your_app_password
+
 EMAIL_HOST=smtp.gmail.com
+
 EMAIL_PORT=587
 
 ---
