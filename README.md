@@ -5,21 +5,30 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Technologies](#technologies)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
 - [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Email Support](#email-support)
+- [Folder Structure](#folder-structure)
 - [Contact](#contact)
+- [License](#license)
+---
 
 ## Description
 
 Welcome to my portfolio! This personal portfolio website showcasing my projects, skills, and professional journey.
 Built with modern web technologies, this website features a clean, responsive design and a modular architecture for easy maintenance and scalability.
+---
 
 ## Features
 
-- **Modern & Responsive Design:** A minimalist layout that adapts seamlessly to mobile, tablet, and desktop screens.
-- **Modular Architecture:** Developed with React and Next.js, the site is organized into reusable components.
-- **Tech-Driven:** Utilizes React, Next.js, TypeScript, JavaScript, HTML, and CSS for a robust and interactive user experience.
-- **Easy Customization:** Designed to be easily updated and customized to reflect your personal brand.
+- **Modern & Responsive Design** – Adapts seamlessly to mobile, tablet, and desktop
+- **Modular Architecture** – Built with React and Next.js using reusable components
+- **Tech-Driven** – Includes TypeScript, Framer Motion, TailwindCSS
+- **Contact Form** – Sends real emails via Nodemailer and Gmail SMTP
+- **Easy Customization** – Clean code structure for quick updates
+---
 
 ## Technology  Stack
 
@@ -27,6 +36,7 @@ Built with modern web technologies, this website features a clean, responsive de
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
 - **Deployment**: Vercel
+---
 
 ## Installation
 
@@ -36,9 +46,24 @@ git clone https://github.com/omergev/Omer-Geva-Portfolio
 npm install
 npm run dev
 Open your browser and navigate to http://localhost:3000 to view the website.
+---
+
+## Environment Variables
+
+To use the contact form (email feature), you need to configure environment variables.
+Create a file named .env.local in the project root with the following content:
+
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASS=your_app_password
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+---
 
 ## Contact
 
-For any questions or suggestions, please reach out at
-- **Name**: Omer Geva   
+For any questions or suggestions, feel free to reach out:
+
+- **Name**: Omer Geva
 - **Email**: omergeva2022@gmail.com
+- **LinkedIn**: linkedin.com/in/omergeva
+- **GitHub**: github.com/omergev
