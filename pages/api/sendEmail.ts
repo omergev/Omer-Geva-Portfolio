@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 import nodemailer from 'nodemailer';
 import SMTPTransport from 'nodemailer/lib/smtp-transport';
 
+
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
@@ -15,6 +16,7 @@ export default async function handler(
   if (!name || !email || !message) {
     return res.status(400).json({ message: 'All fields are required' });
   }
+
 
   const transporter = nodemailer.createTransport({
     host: process.env.EMAIL_HOST,
