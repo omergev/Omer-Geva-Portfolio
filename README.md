@@ -13,12 +13,14 @@
 - [Folder Structure](#folder-structure)
 - [Contact](#contact)
 - [License](#license)
+
 ---
 
 ## Description
 
 Welcome to my portfolio! This personal portfolio website showcasing my projects, skills, and professional journey.
 Built with modern web technologies, this website features a clean, responsive design and a modular architecture for easy maintenance and scalability.
+
 ---
 
 ## Features
@@ -28,6 +30,7 @@ Built with modern web technologies, this website features a clean, responsive de
 - **Tech-Driven** – Includes TypeScript, Framer Motion, TailwindCSS
 - **Contact Form** – Sends real emails via Nodemailer and Gmail SMTP
 - **Easy Customization** – Clean code structure for quick updates
+
 ---
 
 ## Technology  Stack
@@ -36,16 +39,17 @@ Built with modern web technologies, this website features a clean, responsive de
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
 - **Deployment**: Vercel
+
 ---
 
 ## Installation
 
 To get started, just clone the repository and run `npm install && npm run dev`:
-
 git clone https://github.com/omergev/Omer-Geva-Portfolio
 npm install
 npm run dev
 Open your browser and navigate to http://localhost:3000 to view the website.
+
 ---
 
 ## Environment Variables
@@ -57,6 +61,7 @@ EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
+
 ---
 
 ## Contact
