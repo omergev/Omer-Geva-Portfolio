@@ -47,8 +47,11 @@ Built with modern web technologies, this website features a clean, responsive de
 To get started, just clone the repository and run `npm install && npm run dev`:
 
 git clone https://github.com/omergev/Omer-Geva-Portfolio
+
 npm install
+
 npm run dev
+
 Open your browser and navigate to http://localhost:3000 to view the website.
 
 ---
